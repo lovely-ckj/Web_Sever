@@ -78,7 +78,7 @@ SENDDATA run(WEBDATA dat)
 
 **注意，请求处理函数的返回值必须为 `SENDDATA` 且必须有且仅有一个类型为 `WEBDATA` 的参数。**
 
-**Attention, request handler must return `SENDDATA` and must have a parameters which is `WEBDATA`.
+**Attention, request handler must return `SENDDATA` and must have a parameters which is `WEBDATA`.**
 
 最后，初始化 `sever` 并运行！
 
